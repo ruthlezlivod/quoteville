@@ -120,14 +120,3 @@ function checkMultiplePhrases() {
         messageBox.style.color = "red";
     }
 }
-function checkPhrase() {
-    let phrase = document.getElementById("phrase").value;
-
-    if (phrase === "albus") {
-        document.getElementById("result").innerText =
-            "Albus Percival Wulfric Brian Dumbledore";
-    } else {
-        document.getElementById("result").innerText =
-            "Incorrect phrase.";
-    }
-}
