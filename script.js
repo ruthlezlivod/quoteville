@@ -49,8 +49,8 @@ function checkMultiplePhrases() {
         "james bond": "my name is Bond. James Bond",
         "sirius black": "We've all got both light and dark inside us. What matters is the part we choose to act on. That's who we really are",
         "Albus Percival Wulfric Brian Dumbledore": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends",
-        "Rubeus Hagrid": "What’s coming will come, and we’ll meet it when it does",
-        "Hagrid": "What’s coming will come, and we’ll meet it when it does",
+        "rubeus hagrid": "What’s coming will come, and we’ll meet it when it does",
+        "hagrid": "What’s coming will come, and we’ll meet it when it does",
         "harry": "there's no need to call me 'sir' professor",
         "harry potter": "there's no need to call me 'sir' professor",
         "snape": "I can teach you how to bewitch the mind and ensnare the senses. I can teach you how to bottle fame, brew glory, and even put a stopper in death",
@@ -101,6 +101,15 @@ function checkMultiplePhrases() {
          "charlie brown":"Sometimes I lie awake at night, and I ask, 'Where have I gone wrong?' Then a voice says to me, 'This is going to take more than one night",
          "chuck":"In the book of life, the answers aren't in the back",
          "brown":"Don't worry about the world coming to an end today. It's already tomorrow in Australia",
+         "molly weasley":"If you put another toe out of line, we'll bring you straight home!",
+         "arthur weasley":"Tell me, what exactly is the function of a rubber duck?",
+         "arthur":"Never trust anything that can think for itself if you can't see where it keeps its brain!",
+         "mr peabody":"I have a deep regard for you as well, Sherman",
+         "alastor moody":"Constant vigilance!",
+         "mad eye moody":"I'm here because Dumbledore asked me. End of story, goodbye, the end!",
+         "moody":"And hear across classrooms!",
+         "uncle vernon":"We've raised you since you were a baby. We've given you the food at our table, you even have Dudley's second bedroom, clearly out of the goodness of our hearts",
+         "":"",
     };
 
     if (responses[userInput]) {
