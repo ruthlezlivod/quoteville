@@ -1,0 +1,98 @@
+/* General Styles */
+body {
+    font-family: 'ink free', Times, serif, arial;
+    margin: 100;
+    padding: 100;
+    background-color: #000000;
+    text-align: center;
+}
+
+/* Header Styling */
+header {
+    background: #000000;
+    color: white;
+    padding: 150px;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 100px;
+}
+
+nav ul li a {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+    font-weight: normal;
+    size: 100px
+}
+
+/* Section Styling */
+main {
+    padding: 200px;
+}
+
+section {
+    margin-bottom: 100px;
+}
+
+/* Flexbox for Services */
+.services-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+/* Footer */
+footer {
+    background: #000000;
+    color: white;
+    padding: 100px;
+    margin-top: 200px;
+}
+@media (max-width: 600px) {
+    .services-container {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+/* Hide popup by default */
+.popup-container {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgb(0, 0, 0); /* Dark overlay */
+    justify-content: center;
+    align-items: center;
+}
+
+/* Popup box styling */
+.popup {
+    background: rgb(0, 0, 0);
+    padding: 200px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    font-family: ink free;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    background: blue;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background 2s;
+    font-family: ink free;
+}
+
+button:hover {
+    background: rgb(119, 241, 255);
+}
+#message {
+    font-size: 32px;
+}
