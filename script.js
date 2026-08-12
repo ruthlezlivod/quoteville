@@ -16,6 +16,7 @@ function checkMultiplePhrases() {
         "רננה": "you can't know that",
         "איתן": "ועכשיו?",
         "אמא": "gutten you!",
+        "שוויון":"כל בני האדם שווים, אך חלקם שווים יותר",
         "bill cipher": "reality is an illusion! the universe is a hologram! buy gold! byeeeeeeee",
         "alastor": "you're never fully dressed without a smile",
         "the dragon warrior": "skadoosh!",
@@ -187,6 +188,17 @@ function checkMultiplePhrases() {
          "harper lee":"until I feared I would lose it, I never loved to read. One does not love breathing",
          "mahatma gandhi":"An eye for an eye will only make the whole world blind",
          "bukowski":" -Do you hate people? I- don't hate them...I just feel better when they're not around",
+         "ronald reagan": "Status quo, you know, is Latin for 'the mess we're in'",
+         "reagan": "The nine most terrifying words in the English language are: I'm from the government and I'm here to help",
+         "בגין":"ואם יש כמה יפי נפש שהחלו לעקם את האף שלהם – אז שיהיה להם אף עקום",
+         "דוד בן גוריון":"ההון נוצר בשביל האדם, ולא האדם בשביל ההון",
+         "בן גוריון":"רבונו של עולם! הודע שיש לך אהובים בעולמך!",
+         "גולדה מאיר":"אסור לאדם לנסות ולמחוק את העבר רק משום שהוא לא מתאים להווה",
+         "גולדה":"הרשו נא לי לומר דבר אחד שיש לנו הישראלים נגד משה: הוא הוביל אותנו במדבר במשך ארבעים שנה, אך הביא אותנו למקום היחידי במזרח התיכון שאין בו נפט",
+         "alexander the great":"There are no more worlds to conquer!",
+         "napoleon bonaparte":"Never interrupt your enemy when he is making a mistake",
+         "napoleon":"all animals are equal, but some are more equal than others",
+
 
 
     };
