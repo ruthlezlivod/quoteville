@@ -198,6 +198,10 @@ function checkMultiplePhrases() {
          "alexander the great":"There are no more worlds to conquer!",
          "napoleon bonaparte":"Never interrupt your enemy when he is making a mistake",
          "napoleon":"all animals are equal, but some are more equal than others",
+         "הרצל":"ענפים רבים וכן שלמים ימותו ויפלו מעץ היהדות; העץ חי וקיים",
+         "ביאליק":"ים הדממה פולט סודות, וכל העולם כולו שותק",
+         "רבין":"שלום עושים עם אויבים",
+         
 
 
 
