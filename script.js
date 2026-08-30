@@ -201,6 +201,17 @@ function checkMultiplePhrases() {
          "הרצל":"ענפים רבים וכן שלמים ימותו ויפלו מעץ היהדות; העץ חי וקיים",
          "ביאליק":"ים הדממה פולט סודות, וכל העולם כולו שותק",
          "רבין":"שלום עושים עם אויבים",
+         "gandhi":"Be the change that you wish to see in the world",
+         "socarates":"The unexamined life is not worth living",
+         "hamlet":"to be or not to be, that is the question",
+         "Martin Luther King Jr.":"i have a dream",
+         "roosvelt":"The only thing we have to fear is fear itself",
+         "quentin trembly":"The only thing we have to fear isgiant man eating spiders",
+         "stan pines":"When there's no cops around, anything's legal!",
+         "dipper pines":"You can't force someone to love you. The best you can do is strive to be someone worthy of loving",
+         "mabel pines":"I KNOW that hurts because I've accidentally done it to MYSELF! MULTIPLE TIMES!",
+         "mabel":"Hi, I'm Mabel, I'm 12 and own a pig! Wanna get married?",
+         "mabel":"My name is Mabel! It rhymes with table. It also rhymes with glable. It also rhymes with shmabel"
          
 
 
