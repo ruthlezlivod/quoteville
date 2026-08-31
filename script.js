@@ -206,23 +206,29 @@ function checkMultiplePhrases() {
          "hamlet":"to be or not to be, that is the question",
          "Martin Luther King Jr.":"i have a dream",
          "roosvelt":"The only thing we have to fear is fear itself",
-         "quentin trembly":"The only thing we have to fear isgiant man eating spiders",
+         "quentin trembly":"The only thing we have to fear is gigantic, man-eating spiders",
          "stan pines":"When there's no cops around, anything's legal!",
          "dipper pines":"You can't force someone to love you. The best you can do is strive to be someone worthy of loving",
          "mabel pines":"I KNOW that hurts because I've accidentally done it to MYSELF! MULTIPLE TIMES!",
          "mabel":"Hi, I'm Mabel, I'm 12 and own a pig! Wanna get married?",
-         "mabel":"My name is Mabel! It rhymes with table. It also rhymes with glable. It also rhymes with shmabel"
-         
-
-
-
+         "mabel":"My name is Mabel! It rhymes with table. It also rhymes with glable. It also rhymes with shmabel",
+         "descartes":"I think, therefore I am",
+         "the godfather":"I'm gonna make him an offer he can't refuse",
+         "soos":"I ate a man alive tonight",
+         "quentin":"No sir! I ate a salamander and jumped out the window!",
+         "gideon gleeful":"I can buy and sell you, old man!",
+         "pacifica northwest":"Just so we're clear. If I die, I'm suing all of you",
+         "mckgucket":"I'll still eat ya",
+         "fiddleford mckgucket":"You can run, but I'll still be in your nightmares!",
+         "":"",
+         "":"",
     };
 
     if (responses[userInput]) {
         messageBox.innerHTML = responses[userInput];
-        messageBox.style.color = " cyan";
+        messageBox.style.color = " red";
     } else {
         messageBox.innerHTML = " personality was not yet fed into the database.";
-        messageBox.style.color = "red";
+        messageBox.style.color = "";
     }
 }
